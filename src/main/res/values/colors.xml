@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C90F3</color>
+    <color name="colorPrimaryDark">#292626</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="primary_text">#cccccc</color>
+    <color name="secondary_text">#727272</color>
+    <color name="green_text">#2fba4b</color>
+
+
+    <color name="detail_accent_pane_background">#455a64</color>
+    <color name="detail_accent_label">#90A4AE</color>
+
+    <color name="activated">#E0E0E0</color>
+</resources>
